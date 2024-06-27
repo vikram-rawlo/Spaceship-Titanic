@@ -11,7 +11,7 @@ While rounding Alpha Centauri en route to its first destination—the torrid 55 
 To help rescue crews and retrieve the lost passengers, you are challenged to predict which passengers were transported by the anomaly using records recovered from the spaceship’s damaged computer system.
 
 ## Dataset Description
-In this project our task was to predict whether a passenger was transported to an alternate dimension during the Spaceship Titanic's collision with the spacetime anomaly. To help you make these predictions, we're given a set of personal records recovered from the ship's damaged computer system.
+In this project our task was to predict whether a passenger was transported to an alternate dimension during the Spaceship Titanic's collision with the spacetime anomaly. To help us make these predictions, we were given a set of personal records recovered from the ship's damaged computer system.
 
 Link to the dataset: https://www.kaggle.com/competitions/spaceship-titanic/data
 
